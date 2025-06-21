@@ -5,9 +5,7 @@ const subtractFromTen = (num) => {
   console.log(diff)
 }
 
-const printDate = (date) => {
-  console.log(date)
-}
+const printDate = (date) => console.log(date)
 
 multiplyUs(2, 6)
 subtractFromTen(4)
